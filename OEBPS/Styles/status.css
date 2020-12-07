@@ -1,0 +1,9 @@
+.statusValue.statusHP {
+    color: lawngreen;
+}
+.statusValue.statusSP {
+    color: yellow;
+}
+.statusValue.debuff {
+    color: red;
+}
