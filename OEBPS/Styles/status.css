@@ -7,3 +7,7 @@
 .statusValue.debuff {
     color: red;
 }
+.charactercard {
+    border: double 5px #ccc;
+    border-radius: 10px;
+}
