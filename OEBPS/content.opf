@@ -138,28 +138,138 @@
 <item id="c122" href="Text/c122.xhtml" media-type="application/xhtml+xml" />
 <item id="c123" href="Text/c123.xhtml" media-type="application/xhtml+xml" />
 <item id="c124" href="Text/c124.xhtml" media-type="application/xhtml+xml" />
-<item id="c125" href="Text/c125.xhtml" media-type="application/xhtml+xml" />
-<item id="c126" href="Text/c126.xhtml" media-type="application/xhtml+xml" />
-<item id="c127" href="Text/c127.xhtml" media-type="application/xhtml+xml" />
-<item id="c128" href="Text/c128.xhtml" media-type="application/xhtml+xml" />
-<item id="c129" href="Text/c129.xhtml" media-type="application/xhtml+xml" />
-<item id="c130" href="Text/c130.xhtml" media-type="application/xhtml+xml" />
-<item id="c131" href="Text/c131.xhtml" media-type="application/xhtml+xml" />
-<item id="c132" href="Text/c132.xhtml" media-type="application/xhtml+xml" />
-<item id="c133" href="Text/c133.xhtml" media-type="application/xhtml+xml" />
-<item id="c134" href="Text/c134.xhtml" media-type="application/xhtml+xml" />
-<item id="c135" href="Text/c135.xhtml" media-type="application/xhtml+xml" />
-<item id="c136" href="Text/c136.xhtml" media-type="application/xhtml+xml" />
-<item id="c137" href="Text/c137.xhtml" media-type="application/xhtml+xml" />
-<item id="c138" href="Text/c138.xhtml" media-type="application/xhtml+xml" />
 <item id="contents" href="Text/contents.xhtml" media-type="application/xhtml+xml" />
 <item id="cxgtest.php" href="Text/cxgtest.php" media-type="" />
 <item id="filerename.php" href="Text/filerename.php" media-type="" />
 <item id="illustration" href="Text/illustration.xhtml" media-type="application/xhtml+xml" />
 <item id="toc.ncx" href="toc.ncx" media-type="application/x-dtbncx+xml" />
 </manifest>
-    <spine toc="toc.ncx"><itemref idref="c000" />
+    <spine toc="toc.ncx">
+<itemref idref="c000" />
 <itemref idref="c001" />
+<itemref idref="c002" />
+<itemref idref="c003" />
+<itemref idref="c004" />
+<itemref idref="c005" />
+<itemref idref="c006" />
+<itemref idref="c007" />
+<itemref idref="c008" />
+<itemref idref="c009" />
+<itemref idref="c010" />
+<itemref idref="c011" />
+<itemref idref="c012" />
+<itemref idref="c013" />
+<itemref idref="c014" />
+<itemref idref="c015" />
+<itemref idref="c016" />
+<itemref idref="c017" />
+<itemref idref="c018" />
+<itemref idref="c019" />
+<itemref idref="c020" />
+<itemref idref="c021" />
+<itemref idref="c022" />
+<itemref idref="c023" />
+<itemref idref="c024" />
+<itemref idref="c025" />
+<itemref idref="c026" />
+<itemref idref="c027" />
+<itemref idref="c028" />
+<itemref idref="c029" />
+<itemref idref="c030" />
+<itemref idref="c031" />
+<itemref idref="c032" />
+<itemref idref="c033" />
+<itemref idref="c034" />
+<itemref idref="c035" />
+<itemref idref="c036" />
+<itemref idref="c037" />
+<itemref idref="c038" />
+<itemref idref="c039" />
+<itemref idref="c040" />
+<itemref idref="c041" />
+<itemref idref="c042" />
+<itemref idref="c043" />
+<itemref idref="c044" />
+<itemref idref="c045" />
+<itemref idref="c046" />
+<itemref idref="c047" />
+<itemref idref="c048" />
+<itemref idref="c049" />
+<itemref idref="c050" />
+<itemref idref="c051" />
+<itemref idref="c052" />
+<itemref idref="c053" />
+<itemref idref="c054" />
+<itemref idref="c055" />
+<itemref idref="c056" />
+<itemref idref="c057" />
+<itemref idref="c058" />
+<itemref idref="c059" />
+<itemref idref="c060" />
+<itemref idref="c061" />
+<itemref idref="c062" />
+<itemref idref="c063" />
+<itemref idref="c064" />
+<itemref idref="c065" />
+<itemref idref="c066" />
+<itemref idref="c067" />
+<itemref idref="c068" />
+<itemref idref="c069" />
+<itemref idref="c070" />
+<itemref idref="c071" />
+<itemref idref="c072" />
+<itemref idref="c073" />
+<itemref idref="c074" />
+<itemref idref="c075" />
+<itemref idref="c076" />
+<itemref idref="c077" />
+<itemref idref="c078" />
+<itemref idref="c079" />
+<itemref idref="c080" />
+<itemref idref="c081" />
+<itemref idref="c082" />
+<itemref idref="c083" />
+<itemref idref="c084" />
+<itemref idref="c085" />
+<itemref idref="c086" />
+<itemref idref="c087" />
+<itemref idref="c088" />
+<itemref idref="c089" />
+<itemref idref="c090" />
+<itemref idref="c091" />
+<itemref idref="c092" />
+<itemref idref="c093" />
+<itemref idref="c094" />
+<itemref idref="c095" />
+<itemref idref="c096" />
+<itemref idref="c097" />
+<itemref idref="c098" />
+<itemref idref="c099" />
+<itemref idref="c100" />
+<itemref idref="c101" />
+<itemref idref="c102" />
+<itemref idref="c103" />
+<itemref idref="c104" />
+<itemref idref="c105" />
+<itemref idref="c106" />
+<itemref idref="c107" />
+<itemref idref="c108" />
+<itemref idref="c109" />
+<itemref idref="c110" />
+<itemref idref="c111" />
+<itemref idref="c112" />
+<itemref idref="c113" />
+<itemref idref="c114" />
+<itemref idref="c115" />
+<itemref idref="c116" />
+<itemref idref="c117" />
+<itemref idref="c118" />
+<itemref idref="c119" />
+<itemref idref="c120" />
+<itemref idref="c121" />
+<itemref idref="c122" />
+<itemref idref="c123" />
+<itemref idref="c124" />
 <itemref idref="contents" />
 <itemref idref="illustration" />
 </spine>
