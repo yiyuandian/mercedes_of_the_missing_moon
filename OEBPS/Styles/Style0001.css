@@ -76,3 +76,7 @@ span.comment.translator {
 .divlinewithstarchar {
     border-bottom: #ccc 3px double;
 }
+.textmissing {
+    color: red;
+    font-size: 20px;
+}

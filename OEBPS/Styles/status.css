@@ -8,6 +8,6 @@
     color: red;
 }
 .charactercard {
-    border: double 5px #ccc;
+    border: #ccc 5px double;
     border-radius: 10px;
 }
