@@ -18,7 +18,7 @@
 <content src="Text/c001.xhtml" /></navPoint>
 <navPoint id="navPoint1" playOrder="1">
 <navLabel>
-<text>2.</text>
+<text>2. 底层</text>
 </navLabel>
 <content src="Text/c002.xhtml" /></navPoint>
 <navPoint id="navPoint2" playOrder="2">
@@ -38,7 +38,7 @@
 <content src="Text/c005.xhtml" /></navPoint>
 <navPoint id="navPoint5" playOrder="5">
 <navLabel>
-<text>6. 下装2</text>
+<text>6. 底层2</text>
 </navLabel>
 <content src="Text/c006.xhtml" /></navPoint>
 <navPoint id="navPoint6" playOrder="6">
@@ -73,7 +73,7 @@
 <content src="Text/c012.xhtml" /></navPoint>
 <navPoint id="navPoint12" playOrder="12">
 <navLabel>
-<text>13. 丢失！！！</text>
+<text>13. 同样的魔物</text>
 </navLabel>
 <content src="Text/c013.xhtml" /></navPoint>
 <navPoint id="navPoint13" playOrder="13">
@@ -128,7 +128,7 @@
 <content src="Text/c023.xhtml" /></navPoint>
 <navPoint id="navPoint23" playOrder="23">
 <navLabel>
-<text>24. 格鲁内瓦尔特家的生活</text>
+<text>24. 格鲁内瓦特家的生活</text>
 </navLabel>
 <content src="Text/c024.xhtml" /></navPoint>
 <navPoint id="navPoint24" playOrder="24">
@@ -223,7 +223,7 @@
 <content src="Text/c042.xhtml" /></navPoint>
 <navPoint id="navPoint42" playOrder="42">
 <navLabel>
-<text>43. 丢失</text>
+<text>43. 魔物バトル（バトルするとは言ってない）</text>
 </navLabel>
 <content src="Text/c043.xhtml" /></navPoint>
 <navPoint id="navPoint43" playOrder="43">
@@ -238,7 +238,7 @@
 <content src="Text/c045.xhtml" /></navPoint>
 <navPoint id="navPoint45" playOrder="45">
 <navLabel>
-<text>46. 丢失</text>
+<text>46. 濃霧派</text>
 </navLabel>
 <content src="Text/c046.xhtml" /></navPoint>
 <navPoint id="navPoint46" playOrder="46">
@@ -273,7 +273,7 @@
 <content src="Text/c052.xhtml" /></navPoint>
 <navPoint id="navPoint52" playOrder="52">
 <navLabel>
-<text>53. 丢失</text>
+<text>53. プラクティスダンジョン</text>
 </navLabel>
 <content src="Text/c053.xhtml" /></navPoint>
 <navPoint id="navPoint53" playOrder="53">
@@ -313,7 +313,7 @@
 <content src="Text/c060.xhtml" /></navPoint>
 <navPoint id="navPoint60" playOrder="60">
 <navLabel>
-<text>61. 丢失</text>
+<text>61. すり替わり</text>
 </navLabel>
 <content src="Text/c061.xhtml" /></navPoint>
 <navPoint id="navPoint61" playOrder="61">
@@ -323,7 +323,7 @@
 <content src="Text/c062.xhtml" /></navPoint>
 <navPoint id="navPoint62" playOrder="62">
 <navLabel>
-<text>63. 丢失</text>
+<text>63. 女帝ベアトリクス</text>
 </navLabel>
 <content src="Text/c063.xhtml" /></navPoint>
 <navPoint id="navPoint63" playOrder="63">
@@ -333,7 +333,7 @@
 <content src="Text/c064.xhtml" /></navPoint>
 <navPoint id="navPoint64" playOrder="64">
 <navLabel>
-<text>65. 丢失</text>
+<text>65. 本能的恐怖</text>
 </navLabel>
 <content src="Text/c065.xhtml" /></navPoint>
 <navPoint id="navPoint65" playOrder="65">
@@ -368,7 +368,7 @@
 <content src="Text/c071.xhtml" /></navPoint>
 <navPoint id="navPoint71" playOrder="71">
 <navLabel>
-<text>72. 丢失</text>
+<text>72. 女騎士にはオークが強い</text>
 </navLabel>
 <content src="Text/c072.xhtml" /></navPoint>
 <navPoint id="navPoint72" playOrder="72">
@@ -403,12 +403,12 @@
 <content src="Text/c078.xhtml" /></navPoint>
 <navPoint id="navPoint78" playOrder="78">
 <navLabel>
-<text>79. 丢失</text>
+<text>79. 譲渡の儀</text>
 </navLabel>
 <content src="Text/c079.xhtml" /></navPoint>
 <navPoint id="navPoint79" playOrder="79">
 <navLabel>
-<text>80. 丢失</text>
+<text>80. 新的魔法</text>
 </navLabel>
 <content src="Text/c080.xhtml" /></navPoint>
 <navPoint id="navPoint80" playOrder="80">
@@ -443,7 +443,7 @@
 <content src="Text/c086.xhtml" /></navPoint>
 <navPoint id="navPoint86" playOrder="86">
 <navLabel>
-<text>87. 丢失</text>
+<text>87. トライヌの失敗</text>
 </navLabel>
 <content src="Text/c087.xhtml" /></navPoint>
 <navPoint id="navPoint87" playOrder="87">
@@ -453,7 +453,7 @@
 <content src="Text/c088.xhtml" /></navPoint>
 <navPoint id="navPoint88" playOrder="88">
 <navLabel>
-<text>89. 丢失</text>
+<text>89. 真相調査</text>
 </navLabel>
 <content src="Text/c089.xhtml" /></navPoint>
 <navPoint id="navPoint89" playOrder="89">
@@ -463,7 +463,7 @@
 <content src="Text/c090.xhtml" /></navPoint>
 <navPoint id="navPoint90" playOrder="90">
 <navLabel>
-<text>91. 丢失</text>
+<text>91. 意外な強敵</text>
 </navLabel>
 <content src="Text/c091.xhtml" /></navPoint>
 <navPoint id="navPoint91" playOrder="91">
@@ -538,12 +538,12 @@
 <content src="Text/c105.xhtml" /></navPoint>
 <navPoint id="navPoint105" playOrder="105">
 <navLabel>
-<text>106. 扯后腿 “出来，拷贝”</text>
+<text>106. 扯后腿 “出来，皮可”</text>
 </navLabel>
 <content src="Text/c106.xhtml" /></navPoint>
 <navPoint id="navPoint106" playOrder="106">
 <navLabel>
-<text>107. 艾尔菲的少女</text>
+<text>107. 精灵的少女</text>
 </navLabel>
 <content src="Text/c107.xhtml" /></navPoint>
 <navPoint id="navPoint107" playOrder="107">
@@ -578,7 +578,7 @@
 <content src="Text/c113.xhtml" /></navPoint>
 <navPoint id="navPoint113" playOrder="113">
 <navLabel>
-<text>114. 摔跤手的家况</text>
+<text>114. 莱斯利的家况</text>
 </navLabel>
 <content src="Text/c114.xhtml" /></navPoint>
 <navPoint id="navPoint114" playOrder="114">
@@ -588,7 +588,7 @@
 <content src="Text/c115.xhtml" /></navPoint>
 <navPoint id="navPoint115" playOrder="115">
 <navLabel>
-<text>116. 丢失</text>
+<text>116. ユリアとマックスの現在</text>
 </navLabel>
 <content src="Text/c116.xhtml" /></navPoint>
 <navPoint id="navPoint116" playOrder="116">
