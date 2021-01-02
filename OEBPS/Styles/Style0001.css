@@ -81,9 +81,17 @@ span.comment.translator {
     font-size: 20px;
 }
 
-.missioncard {
-    border: #ccc 5px double;
-    background-color: #f6ba79;
+div.missioncard {
+    border: #eee 5px double;
+    background-color: #e6cbb0;
+    margin-top: 20px;
+}
+
+.missioncard .mission-title,.missioncard p:first {
+    padding-bottom: 2px;
+    margin-bottom: 5px;
+    border-bottom: solid 2px white;
+    font-size: large;
 }
 
 .character {
