@@ -80,3 +80,12 @@ span.comment.translator {
     color: red;
     font-size: 20px;
 }
+
+.missioncard {
+    border: #ccc 5px double;
+    background-color: #f6ba79;
+}
+
+.character {
+    color:blue;
+}
