@@ -93,7 +93,7 @@
 <content src="Text/c016.xhtml" /></navPoint>
 <navPoint id="navPoint16" playOrder="16">
 <navLabel>
-<text>17. 迷宫的真实</text>
+<text>17. 迷宫的真相</text>
 </navLabel>
 <content src="Text/c017.xhtml" /></navPoint>
 <navPoint id="navPoint17" playOrder="17">
@@ -323,7 +323,7 @@
 <content src="Text/c062.xhtml" /></navPoint>
 <navPoint id="navPoint62" playOrder="62">
 <navLabel>
-<text>63. 女帝ベアトリクス</text>
+<text>63. 女帝贝亚特里克斯</text>
 </navLabel>
 <content src="Text/c063.xhtml" /></navPoint>
 <navPoint id="navPoint63" playOrder="63">
@@ -528,7 +528,7 @@
 <content src="Text/c103.xhtml" /></navPoint>
 <navPoint id="navPoint103" playOrder="103">
 <navLabel>
-<text>104. 受理委托 “小梅鲁可以攻略了”</text>
+<text>104. 受理委托 “小梅尔可以攻略了”</text>
 </navLabel>
 <content src="Text/c104.xhtml" /></navPoint>
 <navPoint id="navPoint104" playOrder="104">
@@ -631,5 +631,85 @@
 <text>124. 太阳之鸟</text>
 </navLabel>
 <content src="Text/c124.xhtml" /></navPoint>
+<navPoint id="navPoint124" playOrder="124">
+<navLabel>
+<text>第百二十五話　才能という名の呪縛</text>
+</navLabel>
+<content src="Text/c125.xhtml" /></navPoint>
+<navPoint id="navPoint125" playOrder="125">
+<navLabel>
+<text>126 感謝</text>
+</navLabel>
+<content src="Text/c126.xhtml" /></navPoint>
+<navPoint id="navPoint126" playOrder="126">
+<navLabel>
+<text>127　コンペティション</text>
+</navLabel>
+<content src="Text/c127.xhtml" /></navPoint>
+<navPoint id="navPoint127" playOrder="127">
+<navLabel>
+<text>128 转变的迹象</text>
+</navLabel>
+<content src="Text/c128.xhtml" /></navPoint>
+<navPoint id="navPoint128" playOrder="128">
+<navLabel>
+<text>129　暗殺事件</text>
+</navLabel>
+<content src="Text/c129.xhtml" /></navPoint>
+<navPoint id="navPoint129" playOrder="129">
+<navLabel>
+<text>130　濡れ衣</text>
+</navLabel>
+<content src="Text/c130.xhtml" /></navPoint>
+<navPoint id="navPoint130" playOrder="130">
+<navLabel>
+<text>131　道具に徹する者達</text>
+</navLabel>
+<content src="Text/c131.xhtml" /></navPoint>
+<navPoint id="navPoint131" playOrder="131">
+<navLabel>
+<text>132　道具の持ち主</text>
+</navLabel>
+<content src="Text/c132.xhtml" /></navPoint>
+<navPoint id="navPoint132" playOrder="132">
+<navLabel>
+<text>133　戦争秒読み</text>
+</navLabel>
+<content src="Text/c133.xhtml" /></navPoint>
+<navPoint id="navPoint133" playOrder="133">
+<navLabel>
+<text>134　歪んだ解決法</text>
+</navLabel>
+<content src="Text/c134.xhtml" /></navPoint>
+<navPoint id="navPoint134" playOrder="134">
+<navLabel>
+<text>135　急転</text>
+</navLabel>
+<content src="Text/c135.xhtml" /></navPoint>
+<navPoint id="navPoint135" playOrder="135">
+<navLabel>
+<text>136　父と娘の戯れ</text>
+</navLabel>
+<content src="Text/c136.xhtml" /></navPoint>
+<navPoint id="navPoint136" playOrder="136">
+<navLabel>
+<text>137　激化</text>
+</navLabel>
+<content src="Text/c137.xhtml" /></navPoint>
+<navPoint id="navPoint137" playOrder="137">
+<navLabel>
+<text>138　総力戦</text>
+</navLabel>
+<content src="Text/c138.xhtml" /></navPoint>
+<navPoint id="navPoint138" playOrder="138">
+<navLabel>
+<text>139　決着</text>
+</navLabel>
+<content src="Text/c139.xhtml" /></navPoint>
+<navPoint id="navPoint139" playOrder="139">
+<navLabel>
+<text>140　捨てられそうなのでダンジョンを制覇する</text>
+</navLabel>
+<content src="Text/c140.xhtml" /></navPoint>
 </navMap>
 </ncx>

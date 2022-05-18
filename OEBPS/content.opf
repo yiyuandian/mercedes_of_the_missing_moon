@@ -138,8 +138,24 @@
 <item id="c122" href="Text/c122.xhtml" media-type="application/xhtml+xml" />
 <item id="c123" href="Text/c123.xhtml" media-type="application/xhtml+xml" />
 <item id="c124" href="Text/c124.xhtml" media-type="application/xhtml+xml" />
+<item id="c125" href="Text/c125.xhtml" media-type="application/xhtml+xml" />
+<item id="c126" href="Text/c126.xhtml" media-type="application/xhtml+xml" />
+<item id="c127" href="Text/c127.xhtml" media-type="application/xhtml+xml" />
+<item id="c128" href="Text/c128.xhtml" media-type="application/xhtml+xml" />
+<item id="c129" href="Text/c129.xhtml" media-type="application/xhtml+xml" />
+<item id="c130" href="Text/c130.xhtml" media-type="application/xhtml+xml" />
+<item id="c131" href="Text/c131.xhtml" media-type="application/xhtml+xml" />
+<item id="c132" href="Text/c132.xhtml" media-type="application/xhtml+xml" />
+<item id="c133" href="Text/c133.xhtml" media-type="application/xhtml+xml" />
+<item id="c134" href="Text/c134.xhtml" media-type="application/xhtml+xml" />
+<item id="c135" href="Text/c135.xhtml" media-type="application/xhtml+xml" />
+<item id="c136" href="Text/c136.xhtml" media-type="application/xhtml+xml" />
+<item id="c137" href="Text/c137.xhtml" media-type="application/xhtml+xml" />
+<item id="c138" href="Text/c138.xhtml" media-type="application/xhtml+xml" />
+<item id="c139" href="Text/c139.xhtml" media-type="application/xhtml+xml" />
+<item id="c140" href="Text/c140.xhtml" media-type="application/xhtml+xml" />
 <item id="contents" href="Text/contents.xhtml" media-type="application/xhtml+xml" />
-<item id="cxgtest.php" href="Text/cxgtest.php" media-type="" />
+<item id="data.md" href="Text/data.md" media-type="" />
 <item id="filerename.php" href="Text/filerename.php" media-type="" />
 <item id="illustration" href="Text/illustration.xhtml" media-type="application/xhtml+xml" />
 <item id="toc.ncx" href="toc.ncx" media-type="application/x-dtbncx+xml" />
@@ -270,6 +286,22 @@
 <itemref idref="c122" />
 <itemref idref="c123" />
 <itemref idref="c124" />
+<itemref idref="c125" />
+<itemref idref="c126" />
+<itemref idref="c127" />
+<itemref idref="c128" />
+<itemref idref="c129" />
+<itemref idref="c130" />
+<itemref idref="c131" />
+<itemref idref="c132" />
+<itemref idref="c133" />
+<itemref idref="c134" />
+<itemref idref="c135" />
+<itemref idref="c136" />
+<itemref idref="c137" />
+<itemref idref="c138" />
+<itemref idref="c139" />
+<itemref idref="c140" />
 <itemref idref="contents" />
 <itemref idref="illustration" />
 </spine>
