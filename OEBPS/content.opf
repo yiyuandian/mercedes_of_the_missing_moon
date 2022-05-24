@@ -10,7 +10,9 @@
         <meta content="0.9.9" name="Sigil version" />
         <meta name="cover" content="cover.jpg" />
     </metadata>
-    <manifest><item id="charactersaidtext.css" href="Styles/charactersaidtext.css" media-type="text/css" />
+    <manifest><item id="x649d93472012a7aff3b1dac7d673537f.jpg" href="Images/649d93472012a7aff3b1dac7d673537f.jpg" media-type="image/jpeg" />
+<item id="charactersaidtext.css" href="Styles/charactersaidtext.css" media-type="text/css" />
+<item id="image.css" href="Styles/image.css" media-type="text/css" />
 <item id="status.css" href="Styles/status.css" media-type="text/css" />
 <item id="Style0001.css" href="Styles/Style0001.css" media-type="text/css" />
 <item id="c000" href="Text/c000.xhtml" media-type="application/xhtml+xml" />

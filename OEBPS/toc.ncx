@@ -653,12 +653,12 @@
 <content src="Text/c128.xhtml" /></navPoint>
 <navPoint id="navPoint128" playOrder="128">
 <navLabel>
-<text>129　暗殺事件</text>
+<text>129.暗杀事件</text>
 </navLabel>
 <content src="Text/c129.xhtml" /></navPoint>
 <navPoint id="navPoint129" playOrder="129">
 <navLabel>
-<text>130　濡れ衣</text>
+<text>130. 湿衣服</text>
 </navLabel>
 <content src="Text/c130.xhtml" /></navPoint>
 <navPoint id="navPoint130" playOrder="130">
@@ -683,17 +683,17 @@
 <content src="Text/c134.xhtml" /></navPoint>
 <navPoint id="navPoint134" playOrder="134">
 <navLabel>
-<text>135　急転</text>
+<text>135. 急转</text>
 </navLabel>
 <content src="Text/c135.xhtml" /></navPoint>
 <navPoint id="navPoint135" playOrder="135">
 <navLabel>
-<text>136　父と娘の戯れ</text>
+<text>136. 父女间的打闹</text>
 </navLabel>
 <content src="Text/c136.xhtml" /></navPoint>
 <navPoint id="navPoint136" playOrder="136">
 <navLabel>
-<text>137　激化</text>
+<text>137. 激化</text>
 </navLabel>
 <content src="Text/c137.xhtml" /></navPoint>
 <navPoint id="navPoint137" playOrder="137">
