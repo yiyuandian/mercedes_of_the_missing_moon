@@ -118,7 +118,7 @@
 <content src="Text/c021.xhtml" /></navPoint>
 <navPoint id="navPoint21" playOrder="21">
 <navLabel>
-<text>22. 扭曲的父子</text>
+<text>22. 扭曲的父女</text>
 </navLabel>
 <content src="Text/c022.xhtml" /></navPoint>
 <navPoint id="navPoint22" playOrder="22">
@@ -223,7 +223,7 @@
 <content src="Text/c042.xhtml" /></navPoint>
 <navPoint id="navPoint42" playOrder="42">
 <navLabel>
-<text>43. 魔物バトル（バトルするとは言ってない）</text>
+<text>43. 魔武战斗（不要说这是战斗）</text>
 </navLabel>
 <content src="Text/c043.xhtml" /></navPoint>
 <navPoint id="navPoint43" playOrder="43">
@@ -528,7 +528,7 @@
 <content src="Text/c103.xhtml" /></navPoint>
 <navPoint id="navPoint103" playOrder="103">
 <navLabel>
-<text>104. 受理委托 “小梅尔可以攻略了”</text>
+<text>104. 受理委托</text>
 </navLabel>
 <content src="Text/c104.xhtml" /></navPoint>
 <navPoint id="navPoint104" playOrder="104">
@@ -698,12 +698,12 @@
 <content src="Text/c137.xhtml" /></navPoint>
 <navPoint id="navPoint137" playOrder="137">
 <navLabel>
-<text>138　総力戦</text>
+<text>138. 总决战</text>
 </navLabel>
 <content src="Text/c138.xhtml" /></navPoint>
 <navPoint id="navPoint138" playOrder="138">
 <navLabel>
-<text>139　決着</text>
+<text>139. 決着</text>
 </navLabel>
 <content src="Text/c139.xhtml" /></navPoint>
 <navPoint id="navPoint139" playOrder="139">
