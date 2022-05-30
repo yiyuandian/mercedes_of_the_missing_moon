@@ -663,7 +663,7 @@
 <content src="Text/c130.xhtml" /></navPoint>
 <navPoint id="navPoint130" playOrder="130">
 <navLabel>
-<text>131　道具に徹する者達</text>
+<text>131. 贯彻道具的人们</text>
 </navLabel>
 <content src="Text/c131.xhtml" /></navPoint>
 <navPoint id="navPoint131" playOrder="131">
@@ -678,7 +678,7 @@
 <content src="Text/c133.xhtml" /></navPoint>
 <navPoint id="navPoint133" playOrder="133">
 <navLabel>
-<text>134　歪んだ解決法</text>
+<text>134. 歪曲的解决方法</text>
 </navLabel>
 <content src="Text/c134.xhtml" /></navPoint>
 <navPoint id="navPoint134" playOrder="134">
@@ -711,5 +711,10 @@
 <text>140 因为快要被抛弃了，所以称霸迷宫</text>
 </navLabel>
 <content src="Text/c140.xhtml" /></navPoint>
+<navPoint id="navPoint140" playOrder="140">
+<navLabel>
+<text>141. 新继承</text>
+</navLabel>
+<content src="Text/c141.xhtml" /></navPoint>
 </navMap>
 </ncx>
