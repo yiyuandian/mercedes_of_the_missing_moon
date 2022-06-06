@@ -668,7 +668,7 @@
 <content src="Text/c131.xhtml" /></navPoint>
 <navPoint id="navPoint131" playOrder="131">
 <navLabel>
-<text>132　道具の持ち主</text>
+<text>132. 道具的持有者</text>
 </navLabel>
 <content src="Text/c132.xhtml" /></navPoint>
 <navPoint id="navPoint132" playOrder="132">
