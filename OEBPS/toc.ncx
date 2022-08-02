@@ -716,5 +716,10 @@
 <text>141. 新继承</text>
 </navLabel>
 <content src="Text/c141.xhtml" /></navPoint>
+<navPoint id="navPoint141" playOrder="141">
+<navLabel>
+<text>142. 转生者的弱点</text>
+</navLabel>
+<content src="Text/c142.xhtml" /></navPoint>
 </navMap>
 </ncx>

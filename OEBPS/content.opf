@@ -159,6 +159,7 @@
 <item id="c139" href="Text/c139.xhtml" media-type="application/xhtml+xml" />
 <item id="c140" href="Text/c140.xhtml" media-type="application/xhtml+xml" />
 <item id="c141" href="Text/c141.xhtml" media-type="application/xhtml+xml" />
+<item id="c142" href="Text/c142.xhtml" media-type="application/xhtml+xml" />
 <item id="contents" href="Text/contents.xhtml" media-type="application/xhtml+xml" />
 <item id="data.md" href="Text/data.md" media-type="" />
 <item id="filerename.php" href="Text/filerename.php" media-type="" />
@@ -308,6 +309,7 @@
 <itemref idref="c139" />
 <itemref idref="c140" />
 <itemref idref="c141" />
+<itemref idref="c142" />
 <itemref idref="contents" />
 <itemref idref="illustration" />
 </spine>
