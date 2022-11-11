@@ -721,5 +721,10 @@
 <text>142. 转生者的弱点</text>
 </navLabel>
 <content src="Text/c142.xhtml" /></navPoint>
+<navPoint id="navPoint142" playOrder="142">
+<navLabel>
+<text>143. 各自的目标（鸟人/精灵）</text>
+</navLabel>
+<content src="Text/c143.xhtml" /></navPoint>
 </navMap>
 </ncx>
